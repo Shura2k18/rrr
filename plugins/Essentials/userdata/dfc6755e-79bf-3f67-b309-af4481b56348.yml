@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.31.176
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1638019923060
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638200992039
+  login: 1638200926408
+money: '0'
+last-account-name: Joseph_Stalone
+logoutlocation:
+  world: 0c7575d1-0af8-46dc-b046-c34c31e2c2c3
+  world-name: world
+  x: -129.98889988441135
+  y: 43.0
+  z: -163.32334400241413
+  yaw: 310.946533203125
+  pitch: 21.14977264404297
+lastlocation:
+  world: a267f2d9-cabb-498e-9020-0874e18cad84
+  world-name: world
+  x: -32.69549763463728
+  y: 118.53305235316174
+  z: 76.32340076490063
+  yaw: 344.3603515625
+  pitch: 17.999897003173828

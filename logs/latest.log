@@ -1,0 +1,144 @@
+[17:55:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:55:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:55:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:55:22] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[17:55:22] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
+[17:55:22] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_311, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_311
+[17:55:22] [main/DEBUG] [FML]: Java classpath at launch is:
+[17:55:22] [main/DEBUG] [FML]:     Magma.jar
+[17:55:22] [main/DEBUG] [FML]: Java library path at launch is:
+[17:55:22] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[17:55:22] [main/DEBUG] [FML]:     C:\Windows\Sun\Java\bin
+[17:55:22] [main/DEBUG] [FML]:     C:\Windows\system32
+[17:55:22] [main/DEBUG] [FML]:     C:\Windows
+[17:55:22] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler
+[17:55:22] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32\compiler
+[17:55:22] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[17:55:22] [main/DEBUG] [FML]:     C:\Python39\Scripts\
+[17:55:22] [main/DEBUG] [FML]:     C:\Python39\
+[17:55:22] [main/DEBUG] [FML]:     C:\Windows\system32
+[17:55:22] [main/DEBUG] [FML]:     C:\Windows
+[17:55:22] [main/DEBUG] [FML]:     C:\Windows\System32\Wbem
+[17:55:22] [main/DEBUG] [FML]:     C:\Windows\System32\WindowsPowerShell\v1.0\
+[17:55:22] [main/DEBUG] [FML]:     C:\Windows\System32\OpenSSH\
+[17:55:22] [main/DEBUG] [FML]:     C:\Program Files\nodejs\
+[17:55:22] [main/DEBUG] [FML]:     C:\MinGW\bin
+[17:55:22] [main/DEBUG] [FML]:     C:\Program Files\dotnet\
+[17:55:22] [main/DEBUG] [FML]:     C:\Users\Makcim\AppData\Local\Microsoft\WindowsApps
+[17:55:22] [main/DEBUG] [FML]:     C:\Users\Makcim\AppData\Roaming\npm
+[17:55:22] [main/DEBUG] [FML]:     C:\Program Files\JetBrains\WebStorm 2019.2\bin
+[17:55:22] [main/DEBUG] [FML]:     
+[17:55:22] [main/DEBUG] [FML]:     C:\Users\Makcim\AppData\Local\Programs\Microsoft VS Code\bin
+[17:55:22] [main/DEBUG] [FML]:     C:\MinGW\bin
+[17:55:22] [main/DEBUG] [FML]:     
+[17:55:22] [main/DEBUG] [FML]:     .
+[17:55:22] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: D:\Рабочий стол\test\libraries
+[17:55:22] [main/DEBUG] [FML]: Cleaning up mods folder: .\mods
+[17:55:22] [main/DEBUG] [FML]: Examining file: FTBLib-5.4.7.2.jar
+[17:55:22] [main/DEBUG] [FML]: Examining file: FTBUtilities-5.4.1.131.jar
+[17:55:22] [main/DEBUG] [FML]: Examining file: jei_1.12.2-4.16.1.302.jar
+[17:55:22] [main/DEBUG] [FML]: Examining file: journeymap-1.12.2-5.7.1.jar
+[17:55:22] [main/DEBUG] [FML]: Examining file: minecolonies-1.12.2-0.11.841-ALPHA-universal.jar
+[17:55:22] [main/DEBUG] [FML]: Found existing ContainedDep META-INF/libraries/structurize-1.12.2-0.10.277-RELEASE.jar(com.ldtteam:structurize:1.12.2-0.10.277-RELEASE) from D:\Рабочий стол\test\mods\memory_repo\com\ldtteam\structurize\1.12.2-0.10.277-RELEASE\structurize-1.12.2-0.10.277-RELEASE.jar extracted to .\mods\minecolonies-1.12.2-0.11.841-ALPHA-universal.jar, skipping extraction
+[17:55:22] [main/DEBUG] [FML]: Examining file: structurize-1.12.2-0.10.277-RELEASE.jar
+[17:55:22] [main/DEBUG] [FML]: Found existing ContainDep extracted to D:\Рабочий стол\test\mods\1.12.2\MathParser.org-mXparser-4.0.0.jar, skipping extraction
+[17:55:22] [main/DEBUG] [FML]: Making maven link for com.minecolonies:minecolonies:1.12.2-0.11.841-ALPHA:universal in memory to D:\Рабочий стол\test\.\mods\minecolonies-1.12.2-0.11.841-ALPHA-universal.jar.
+[17:55:22] [main/DEBUG] [FML]: Examining file: structurize-1.12.2-0.10.277-RELEASE.jar
+[17:55:22] [main/DEBUG] [FML]: Found existing ContainDep extracted to D:\Рабочий стол\test\mods\1.12.2\MathParser.org-mXparser-4.0.0.jar, skipping extraction
+[17:55:22] [main/DEBUG] [FML]: Making maven link for com.ldtteam:structurize:1.12.2-0.10.277-RELEASE in memory to D:\Рабочий стол\test\.\mods\structurize-1.12.2-0.10.277-RELEASE.jar.
+[17:55:22] [main/DEBUG] [FML]: Examining file: wildnature_1.12.2_1.2.jar
+[17:55:22] [main/DEBUG] [FML]: Cleaning up mods folder: .\mods\1.12.2
+[17:55:22] [main/DEBUG] [FML]: Examining file: MathParser.org-mXparser-4.0.0.jar
+[17:55:22] [main/DEBUG] [FML]: File already proccessed D:\Рабочий стол\test\.\mods\structurize-1.12.2-0.10.277-RELEASE.jar, Skipping
+[17:55:22] [main/DEBUG] [FML]: File already proccessed D:\Рабочий стол\test\.\mods\minecolonies-1.12.2-0.11.841-ALPHA-universal.jar, Skipping
+[17:55:22] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[17:55:22] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[17:55:22] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[17:55:22] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[17:55:22] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[17:55:22] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[17:55:22] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[17:55:22] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[17:55:22] [main/DEBUG] [FML]: Instantiating coremod class MagmaCorePlugin
+[17:55:22] [main/WARN] [FML]: The coremod MagmaCorePlugin (org.magmafoundation.magma.MagmaCorePlugin) is not signed!
+[17:55:22] [main/INFO] [FML]: 3 mod patches loaded!
+[17:55:22] [main/INFO] [FML]: FirstAid loaded
+[17:55:22] [main/INFO] [FML]: naturessompass loaded
+[17:55:22] [main/INFO] [FML]: FTB-Quest loaded
+[17:55:22] [main/DEBUG] [FML]: Enqueued coremod MagmaCorePlugin
+[17:55:22] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[17:55:22] [main/DEBUG] [FML]: Discovering coremods
+[17:55:22] [main/INFO] [FML]: Searching D:\Рабочий стол\test\.\mods for mods
+[17:55:22] [main/DEBUG] [FML]:   Adding FTBLib-5.4.7.2.jar to the mod list
+[17:55:22] [main/DEBUG] [FML]:   Adding FTBUtilities-5.4.1.131.jar to the mod list
+[17:55:22] [main/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.302.jar to the mod list
+[17:55:22] [main/DEBUG] [FML]:   Adding journeymap-1.12.2-5.7.1.jar to the mod list
+[17:55:22] [main/DEBUG] [FML]:   Adding minecolonies-1.12.2-0.11.841-ALPHA-universal.jar to the mod list
+[17:55:22] [main/DEBUG] [FML]:   Adding structurize-1.12.2-0.10.277-RELEASE.jar to the mod list
+[17:55:22] [main/DEBUG] [FML]:   Adding wildnature_1.12.2_1.2.jar to the mod list
+[17:55:22] [main/INFO] [FML]: Searching D:\Рабочий стол\test\.\mods\1.12.2 for mods
+[17:55:22] [main/DEBUG] [FML]:   Adding MathParser.org-mXparser-4.0.0.jar to the mod list
+[17:55:22] [main/DEBUG] [FML]: Examining for coremod candidacy FTBLib-5.4.7.2.jar
+[17:55:22] [main/DEBUG] [FML]: Not found coremod data in FTBLib-5.4.7.2.jar
+[17:55:22] [main/DEBUG] [FML]: Examining for coremod candidacy FTBUtilities-5.4.1.131.jar
+[17:55:22] [main/DEBUG] [FML]: Not found coremod data in FTBUtilities-5.4.1.131.jar
+[17:55:22] [main/DEBUG] [FML]: Examining for coremod candidacy jei_1.12.2-4.16.1.302.jar
+[17:55:22] [main/DEBUG] [FML]: Not found coremod data in jei_1.12.2-4.16.1.302.jar
+[17:55:22] [main/DEBUG] [FML]: Examining for coremod candidacy journeymap-1.12.2-5.7.1.jar
+[17:55:22] [main/DEBUG] [FML]: Not found coremod data in journeymap-1.12.2-5.7.1.jar
+[17:55:22] [main/DEBUG] [FML]: Examining for coremod candidacy MathParser.org-mXparser-4.0.0.jar
+[17:55:22] [main/DEBUG] [FML]: Not found coremod data in MathParser.org-mXparser-4.0.0.jar
+[17:55:22] [main/DEBUG] [FML]: Examining for coremod candidacy wildnature_1.12.2_1.2.jar
+[17:55:22] [main/DEBUG] [FML]: Not found coremod data in wildnature_1.12.2_1.2.jar
+[17:55:22] [main/DEBUG] [FML]: Examining for coremod candidacy structurize-1.12.2-0.10.277-RELEASE.jar
+[17:55:22] [main/DEBUG] [FML]: Not found coremod data in structurize-1.12.2-0.10.277-RELEASE.jar
+[17:55:22] [main/DEBUG] [FML]: Examining for coremod candidacy minecolonies-1.12.2-0.11.841-ALPHA-universal.jar
+[17:55:22] [main/DEBUG] [FML]: Not found coremod data in minecolonies-1.12.2-0.11.841-ALPHA-universal.jar
+[17:55:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:55:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:55:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:55:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:55:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:22] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[17:55:22] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[17:55:22] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[17:55:22] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[17:55:22] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[17:55:22] [main/DEBUG] [FML]: Injection complete
+[17:55:22] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[17:55:22] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[17:55:24] [main/DEBUG] [FML]: Read 1400 binary patches
+[17:55:24] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36083 records
+[17:55:24] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[17:55:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:24] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[17:55:24] [main/DEBUG] [FML]: Injection complete
+[17:55:24] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[17:55:24] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[17:55:24] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[17:55:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:24] [main/DEBUG] [FML]: Injecting coremod MagmaCorePlugin \{org.magmafoundation.magma.MagmaCorePlugin\} class transformers
+[17:55:24] [main/TRACE] [FML]: Registering transformer org.magmafoundation.magma.modPatcher.patches.FirstAidPatch
+[17:55:24] [main/TRACE] [FML]: Registering transformer org.magmafoundation.magma.modPatcher.patches.NaturesCompassPatch
+[17:55:24] [main/TRACE] [FML]: Registering transformer org.magmafoundation.magma.modPatcher.patches.FTBQuestPatch
+[17:55:24] [main/DEBUG] [FML]: Injection complete
+[17:55:24] [main/DEBUG] [FML]: Running coremod plugin for MagmaCorePlugin \{org.magmafoundation.magma.MagmaCorePlugin\}
+[17:55:24] [main/DEBUG] [FML]: Running coremod plugin MagmaCorePlugin
+[17:55:24] [main/DEBUG] [FML]: Coremod plugin class MagmaCorePlugin run successfully
+[17:55:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:55:24] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[17:55:24] [main/DEBUG] [FML]: Loaded 18 rules from AccessTransformer mod jar file .\mods\FTBLib-5.4.7.2.jar!META-INF/ftblib_at.cfg
+
+[17:55:24] [main/DEBUG] [FML]: Loaded 13 rules from AccessTransformer mod jar file .\mods\jei_1.12.2-4.16.1.302.jar!META-INF/jei_at.cfg
+
+[17:55:24] [main/DEBUG] [FML]: Loaded 10 rules from AccessTransformer mod jar file .\mods\structurize-1.12.2-0.10.277-RELEASE.jar!META-INF/structurize_at.cfg
+
+[17:55:24] [main/DEBUG] [FML]: Loaded 17 rules from AccessTransformer mod jar file .\mods\minecolonies-1.12.2-0.11.841-ALPHA-universal.jar!META-INF/minecolonies_at.cfg
+
+[17:55:24] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file .\mods\journeymap-1.12.2-5.7.1.jar!META-INF/journeymap_at.cfg
+
+[17:55:24] [main/DEBUG] [FML]: Validating minecraft
+[17:55:24] [main/DEBUG] [FML]: Minecraft validated, launching...
+[17:55:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:55:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:55:25] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
